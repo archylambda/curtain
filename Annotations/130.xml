@@ -1,0 +1,24 @@
+<annotation>
+  <folder></folder>
+  <filename>130.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>300</width>
+    <height>200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>window</name>
+    <bndbox>
+      <xmin>84.19140625</xmin>
+      <ymin>45.6220703125</ymin>
+      <xmax>226.16171264648438</xmax>
+      <ymax>129.83260345458984</ymax>
+    </bndbox>
+  </object>
+</annotation>
